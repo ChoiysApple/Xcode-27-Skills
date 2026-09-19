@@ -2,6 +2,9 @@
 
 A personal archive of built-in coding skills exported from Xcode 27 and maintained for Xcode 27.1 beta.
 
+> **Note**
+> This archive began with skills from the first Xcode 27 beta and now includes Xcode 27.1 beta guidance.
+
 ## Contents
 
 - `xcode-skills/swiftui-whats-new-27` — SwiftUI APIs, behavior changes, and deprecations introduced by the OS 27 SDKs.
